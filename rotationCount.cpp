@@ -1,4 +1,4 @@
-// Input: An array of N initegers, sorted in increasing order and the last					 element shifted to the start k times.
+// Input: An array of N initegers, sorted in increasing order and the last element shifted to the start k times.
 // Output: The value of k
 
 // Author: Gautam Singh
